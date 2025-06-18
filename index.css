@@ -1,0 +1,26 @@
+.section1 ,.section12 , .section112{
+    display: flex;
+    align-items: center;
+}
+.section1 , .section112{
+    justify-content: space-around;
+}
+.black {
+  color: #0A0914; 
+  font-weight: bold;
+}
+
+.yellow {
+  color: #FEC007; 
+  font-weight: bold;
+}
+.section112{
+    gap: 10px;
+}
+.button1{
+    border: none;
+    padding: 10px 25px;
+    background-color: orange;
+    border-radius: 15px;
+    color: white;
+}
