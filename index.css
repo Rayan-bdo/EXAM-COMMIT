@@ -24,3 +24,68 @@
     border-radius: 15px;
     color: white;
 }
+.button2{
+    border: none;
+    padding: 10px 40px;
+    background-color: orange;
+    border-radius: 15px;
+    color: white;
+}
+.section2112{
+    color: orange;
+    margin-top: -10px;
+}
+.section211{
+    font-size: 30px;
+    font-weight: normal;
+}
+.section21{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    align-items: start;
+    gap: 10px;
+}
+.section2{
+    display: flex;
+    justify-content: space-around;
+}
+.section2112{
+    color: orange;
+    margin-top: -10px;
+}
+.section211{
+    font-size: 30px;
+    font-weight: normal;
+}
+.section21{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    align-items: start;
+    gap: 10px;
+}
+.section2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.section2112{
+    color: orange;
+    margin-top: -10px;
+}
+.section211{
+    font-size: 30px;
+    font-weight: normal;
+}
+.section21{
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    align-items: start;
+    gap: 10px;
+}
+.section2{
+    display: flex;
+    justify-content: space-around;
+}
